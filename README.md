@@ -27,6 +27,12 @@ with the sheet row:
 The `go.ahmet.dev/gcp/golang-samples` will be redirected to
 `https://github.com/GoogleCloudPlatform/golang-samples`.
 
+## Updates
+
+1. Create new commits
+1. Commit and push to repo
+1. Google cloud run automatically picks up repository changes and redeploys
+
 ## Setup
 
 1. Create a new **Google Sheet**: https://sheets.new.
